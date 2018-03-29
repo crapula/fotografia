@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+
+
+
+
+/*------------------PANTALLA 740px HASTA 899px ------------------------------ */
+@media (min-width:740px) and (max-width:899px){
+	
+	#contenido{
+	width: 100%
+}
+	
+	/*------------------HEADER-----------------------------*/
+	
+		
+	header{
+	padding-left: 2%;
+	padding-right: 2%;
+	}
+		
+	h1{
+	display: inline;
+	}
+	
+	header ul{
+	display: inline;
+	float: right;
+	width: 30%;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	
+	}
+	
+	
+	header ul li{
+	margin-right: 5%;
+	margin-left: 5;
+	
+	}
+	
+	/*------------------SECTION-----------------------------*/
+	
+	
+	section article{
+	padding-left: 1%;
+	padding-top: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+	
+}
+	section article img{
+	width: 100%;
+	height: 200px;
+}
+	
+	/*------------------FOOTER-----------------------------*/
+	 
+	
+	footer div{
+	text-align: left;
+	width: 23%;
+	}
+	
+}/*FIN PANTALLA 700px */
+
+
+
+
+/*------------------PANTALLA 580px HASTA 739px ------------------------------*/
+@media (min-width:580px) and (max-width:739px){
+
+		
+}/*FIN PANTALLA 480px */

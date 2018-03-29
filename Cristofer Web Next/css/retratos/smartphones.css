@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+
+
+/*PANTALLA 481px HASTA 579px*/
+@media (min-width:481px) and (max-width:579px){
+			
+	
+	h1{
+	
+	font-size: 150%;
+	}
+	
+	
+		
+
+	
+}/*FIN PANTALLA 480px ------------------------------*/
+
+
+
+/*------------------PANTALLA 320px HASTA 480px*/
+@media (min-width:320px) and (max-width:480px){
+	
+	
+		h1{
+	font-size: 130%;	
+	}
+	
+	
+		
+	
+	
+	
+}/*FIN PANTALLA 700px ------------------------------*/
